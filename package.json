@@ -1,0 +1,26 @@
+{
+  "name": "unozerocode",
+  "version": "1.0.0",
+  "description": "Web site",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "cypress run",
+    "server": "http-server public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:unozero-code-s-a-de-c-v/unozero-code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com:unozero-code-s-a-de-c-v/unozero-code/issues"
+  },
+  "homepage": "https://github.com:unozero-code-s-a-de-c-v/unozero-code#readme",
+  "devDependencies": {
+    "cypress": "^4.2.0"
+  },
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
+}
